@@ -133,3 +133,19 @@ footer{
     background:#1e1e1e;
     margin-top:50px;
 }
+#topBtn{
+    position:fixed;
+    bottom:20px;
+    right:20px;
+    padding:10px 15px;
+    border:none;
+    border-radius:8px;
+    background:#d74d99;
+    color:white;
+    cursor:pointer;
+}
+.project-card img{
+    width:100%;
+    border-radius:10px;
+    margin-bottom:15px;
+}
